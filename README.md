@@ -1,2 +1,2 @@
 # chart-editor
-A project to create well-diversed chart editor (SM, BMS, o!m, KSM, etc.)
+A project to create a Single Suite Chart Editor dedicated for BMS
