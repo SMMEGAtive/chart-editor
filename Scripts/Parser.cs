@@ -13,7 +13,7 @@ namespace cBMSC.Scripts
 
         }
 
-        void ChannelParse()
+        void ChannelParse(string channel)
         {
 
         }
